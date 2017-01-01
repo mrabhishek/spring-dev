@@ -1,2 +1,2 @@
 # spring-dev
-Spring based developments.
+Spring based development.
